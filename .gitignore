@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js
+.next/
+out/
+
+# Vercel
+.vercel
+
+# Debug
+npm-debug.log*
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# Env
+.env*.local
+.env
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo
